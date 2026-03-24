@@ -1,0 +1,9 @@
+$ cd "/c/Users/tjcol/Capstone Project/xrwvm-fullstack_developer_capstone/server" && "c:/Users/tjcol/Capstone Project/.venv/Scripts/python.exe" manage.py runserver
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 24, 2026 - 13:20:41
+Django version 6.0.3, using settings 'djangoproj.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
