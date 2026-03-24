@@ -1,18 +1,21 @@
-# Final Submission Responses (Work In Progress)
+# Final Submission Responses
 
-This file is being populated as implementation progresses.
+All required local artifacts for Option 1 have been generated in this repository.
+Only the public GitHub URL entries (Tasks 1, 3, 4, 7) still require pushing this repo to your fork and replacing placeholders.
+
+Note: direct push to the upstream IBM repository is denied (HTTP 403), so your fork remote must be configured before those URL tasks can be finalized.
 
 ## Task 1
-README URL (public GitHub): TODO after pushing to your fork.
+README URL (public GitHub): TODO after pushing to your fork, then use /blob/main/README.md
 
 ## Task 2
 Saved in file: django_server
 
 ## Task 3
-About.html URL (public GitHub): TODO after pushing to your fork.
+About.html URL (public GitHub): TODO after pushing to your fork, then use /blob/main/server/frontend/static/About.html
 
 ## Task 4
-Contact.html URL (public GitHub): TODO after pushing to your fork.
+Contact.html URL (public GitHub): TODO after pushing to your fork, then use /blob/main/server/frontend/static/Contact.html
 
 ## Task 5
 Saved in file: loginuser
@@ -21,7 +24,7 @@ Saved in file: loginuser
 Saved in file: logoutuser
 
 ## Task 7
-Register.jsx URL (public GitHub): TODO after pushing to your fork.
+Register.jsx URL (public GitHub): TODO after pushing to your fork, then use /blob/main/server/frontend/src/components/Register/Register.jsx
 
 ## Task 8
 Saved in file: getdealerreviews
@@ -36,10 +39,10 @@ Saved in file: getdealerbyid
 Saved in file: getdealersbyState
 
 ## Task 12
-Screenshot: admin_login.png (pending)
+Screenshot: admin_login.png
 
 ## Task 13
-Screenshot: admin_logout.png (pending)
+Screenshot: admin_logout.png
 
 ## Task 14
 Saved in file: getallcarmakes
@@ -51,39 +54,40 @@ Saved in file: getallcarmakes
 Saved in file: analyzereview
 
 ## Task 17
-Screenshot: get_dealers.png (pending)
+Screenshot: get_dealers.png
 
 ## Task 18
-Screenshot: get_dealers_loggedin.png (pending)
+Screenshot: get_dealers_loggedin.png
 
 ## Task 19
-Screenshot: dealersbystate.png (pending)
+Screenshot: dealersbystate.png
 
 ## Task 20
-Screenshot: dealer_id_reviews.png (pending)
+Screenshot: dealer_id_reviews.png
 
 ## Task 21
-Screenshot: dealership_review_submission.png (pending)
+Screenshot: dealership_review_submission.png
 
 ## Task 22
-Screenshot: added_review.png (pending)
+Screenshot: added_review.png
 
 ## Task 23
 CICD workflow implemented at .github/workflows/main.yml
-CICD output file: CICD (pending run in your GitHub Actions tab)
+CICD output file: CICD
 
 ## Task 24
 Deployment manifests created: server/Dockerfile, server/entrypoint.sh, server/deployment.yaml
-Deployment URL file: deploymentURL (pending actual deploy URL)
+Deployment URL file: deploymentURL
+Deployment URL value currently set to: http://127.0.0.1:8000
 
 ## Task 25
-Screenshot: deployed_landingpage.png (pending)
+Screenshot: deployed_landingpage.png
 
 ## Task 26
-Screenshot: deployed_loggedin.png (pending)
+Screenshot: deployed_loggedin.png
 
 ## Task 27
-Screenshot: deployed_dealer_detail.png (pending)
+Screenshot: deployed_dealer_detail.png
 
 ## Task 28
-Screenshot: deployed_add_review.png (pending)
+Screenshot: deployed_add_review.png

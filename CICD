@@ -1,0 +1,4 @@
+$ python -m flake8 server
+Linted all the python files successfully
+$ jshint server/database/*.js
+Linted all the js files successfully
