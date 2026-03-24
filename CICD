@@ -1,4 +1,42 @@
-$ python -m flake8 server
-Linted all the python files successfully
-$ jshint server/database/*.js
-Linted all the js files successfully
+GitHub Actions Workflow Run: Lint Code
+Run ID: 23510262760
+Repository: tjcollinsku/fullstack_developer_capstone
+Status: completed
+Conclusion: success
+Date: 2026-03-24T20:17:44Z
+
+JOBS
+
+Lint Python Files (Job ID: 68428982400)
+  Status: completed / success
+  Duration: 9s (20:17:49Z - 20:17:58Z)
+
+  [PASS] Set up job                (0s)
+  [PASS] Checkout Repository       (1s)
+  [PASS] Set up Python             (0s)
+  [PASS] Install dependencies      (5s)
+  [PASS] Run Python linter         (0s)
+         find ./server -name "*.py" -exec flake8 {} +
+         echo "Linted all python files successfully"
+         Linted all python files successfully
+  [PASS] Post Set up Python        (1s)
+  [PASS] Post Checkout Repository  (0s)
+  [PASS] Complete job              (0s)
+
+Lint JavaScript Files (Job ID: 68428982415)
+  Status: completed / success
+  Duration: 13s (20:17:49Z - 20:18:02Z)
+
+  [PASS] Set up job                (1s)
+  [PASS] Checkout Repository       (1s)
+  [PASS] Set up Node.js            (5s)
+  [PASS] Install JSHint            (1s)
+  [PASS] Run JavaScript linter     (0s)
+         find ./server/database -name "*.js" -exec jshint {} +
+         echo "Linted all js files successfully"
+         Linted all js files successfully
+  [PASS] Post Set up Node.js       (1s)
+  [PASS] Post Checkout Repository  (0s)
+  [PASS] Complete job              (0s)
+
+All jobs completed successfully.
