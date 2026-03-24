@@ -1,21 +1,18 @@
 # Final Submission Responses
 
 All required local artifacts for Option 1 have been generated in this repository.
-Only the public GitHub URL entries (Tasks 1, 3, 4, 7) still require pushing this repo to your fork and replacing placeholders.
-
-Note: direct push to the upstream IBM repository is denied (HTTP 403), so your fork remote must be configured before those URL tasks can be finalized.
 
 ## Task 1
-README URL (public GitHub): TODO after pushing to your fork, then use /blob/main/README.md
+README URL (public GitHub): https://github.com/tjcollinsku/fullstack_developer_capstone/blob/main/README.md
 
 ## Task 2
 Saved in file: django_server
 
 ## Task 3
-About.html URL (public GitHub): TODO after pushing to your fork, then use /blob/main/server/frontend/static/About.html
+About.html URL (public GitHub): https://github.com/tjcollinsku/fullstack_developer_capstone/blob/main/server/frontend/static/About.html
 
 ## Task 4
-Contact.html URL (public GitHub): TODO after pushing to your fork, then use /blob/main/server/frontend/static/Contact.html
+Contact.html URL (public GitHub): https://github.com/tjcollinsku/fullstack_developer_capstone/blob/main/server/frontend/static/Contact.html
 
 ## Task 5
 Saved in file: loginuser
@@ -24,7 +21,7 @@ Saved in file: loginuser
 Saved in file: logoutuser
 
 ## Task 7
-Register.jsx URL (public GitHub): TODO after pushing to your fork, then use /blob/main/server/frontend/src/components/Register/Register.jsx
+Register.jsx URL (public GitHub): https://github.com/tjcollinsku/fullstack_developer_capstone/blob/main/server/frontend/src/components/Register/Register.jsx
 
 ## Task 8
 Saved in file: getdealerreviews
