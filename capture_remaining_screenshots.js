@@ -80,7 +80,7 @@ async function run() {
   await page.fill('input[name="psw"]', 'root');
   await page.click('input[type="submit"][value="Login"]');
   // Wait for redirect back to home after login
-  await page.waitForURL(base + '/', { timeout: 8000 }).catch(() => {});
+  await page.waitForURL(base + '/', { timeout: 8000 }).catch(() => { });
   await page.waitForTimeout(1000);
 
   // ── get_dealers_loggedin.png ────────────────────────────────────────────────
